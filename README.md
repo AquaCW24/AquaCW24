@@ -4,11 +4,13 @@ I am a student that major in Space Science and Engineering :ringed_planet:.
 
 ## :electron: Language 
 
-[![My Skills](https://skillicons.dev/icons?i=git,c,matlab,py)](https://skillicons.dev)
+[![image](https://skillicons.dev/icons?i=git,c,matlab,py)]
 
 ## :hammer_and_wrench: Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AquaCW24)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 
 ## :desktop_computer: Social Platform
 
