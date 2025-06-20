@@ -19,4 +19,4 @@ I am a student that major in Space Science and Engineering :ringed_planet:.
 [![Image](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/c_cl_cahehcr/)
 [![Image](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bistanews)
 [![Image](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![Image](https://skillicons.dev/icons?i=linkedin)] (https://www.linkedin.com/in/che-wen-kuo-a05bab300)
+[![Image](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/che-wen-kuo-a05bab300)
